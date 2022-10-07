@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/ci-wdi-900/wait-i-object#readme",
   "dependencies": {
-    "jest": "^27.0.4"
+    "jest": "^27.0.4",
+    "prompt-sync": "^4.2.0"
   }
 }
